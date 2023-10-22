@@ -1,7 +1,7 @@
 # logger
 A simple c++20 logging header file.
 
-An example using no time logging.
+An example without logging the time.
 
 ![image](https://github.com/DiamondOreMaster/logger/assets/102474184/d04fb41c-66ff-48be-8db5-ad8ad2a6371f)
 
