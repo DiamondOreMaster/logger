@@ -2,6 +2,7 @@
 A simple c++20 logging header file.
 
 An example using no time logging.
+
 ![image](https://github.com/DiamondOreMaster/logger/assets/102474184/d04fb41c-66ff-48be-8db5-ad8ad2a6371f)
 
 An example using time logging, US time format and then international time format.
